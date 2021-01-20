@@ -1,5 +1,7 @@
 # Quick Interactive Math Practice
 
+![Screenshot of Distributive Property Widget](https://i.imgur.com/Nc0abVU.png)
+
 This is an interactive widget made to help students check their understanding of the distributive property. It uses a grid visualization for each question and answer to emphasize how the distributive property works. There are five questions, with a small celebration once you get all of them!
 
 You can check out a [live demo here](https://csb-c0wic.netlify.app/). (Though it may stop working if I haven't updated this repo in a while)
