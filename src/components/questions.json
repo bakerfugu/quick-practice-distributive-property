@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "width": 5,
+      "height": 3,
+      "answers": [
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 3,
+          "otherDimensionB": 1,
+          "isCorrect": false
+        },
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 1,
+          "otherDimensionB": 4,
+          "isCorrect": true
+        },
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 2,
+          "otherDimensionB": 1,
+          "isCorrect": true
+        },
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 3,
+          "otherDimensionB": 1,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "width": 8,
+      "height": 7,
+      "answers": [
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 3,
+          "otherDimensionB": 5,
+          "isCorrect": true
+        },
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 2,
+          "otherDimensionB": 6,
+          "isCorrect": false
+        },
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 1,
+          "otherDimensionB": 6,
+          "isCorrect": false
+        },
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 5,
+          "otherDimensionB": 2,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "width": 5,
+      "height": 6,
+      "answers": [
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 1,
+          "otherDimensionB": 4,
+          "isCorrect": true
+        },
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 1,
+          "otherDimensionB": 5,
+          "isCorrect": false
+        },
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 1,
+          "otherDimensionB": 3,
+          "isCorrect": false
+        },
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 2,
+          "otherDimensionB": 3,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "width": 9,
+      "height": 5,
+      "answers": [
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 3,
+          "otherDimensionB": 2,
+          "isCorrect": true
+        },
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 2,
+          "otherDimensionB": 3,
+          "isCorrect": true
+        },
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 2,
+          "otherDimensionB": 4,
+          "isCorrect": false
+        },
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 2,
+          "otherDimensionB": 7,
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "width": 11,
+      "height": 4,
+      "answers": [
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 3,
+          "otherDimensionB": 3,
+          "isCorrect": false
+        },
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 8,
+          "otherDimensionB": 3,
+          "isCorrect": true
+        },
+        {
+          "sharedDimensionSide": "height",
+          "otherDimensionA": 5,
+          "otherDimensionB": 6,
+          "isCorrect": true
+        },
+        {
+          "sharedDimensionSide": "width",
+          "otherDimensionA": 2,
+          "otherDimensionB": 2,
+          "isCorrect": true
+        }
+      ]
+    }
+  ]
+}

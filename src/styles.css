@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/*  
+  I wish I had a relative way of sizing
+  the Latex stuff, but this is the best
+  I could figure out 
+*/
+.katex { font-size: 1.6em; }
