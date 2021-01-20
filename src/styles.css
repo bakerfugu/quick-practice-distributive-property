@@ -8,4 +8,6 @@
   the Latex stuff, but this is the best
   I could figure out 
 */
-.katex { font-size: 1.6em; }
+.katex {
+  font-size: 1.3rem;
+}
